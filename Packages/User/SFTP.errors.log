@@ -1,0 +1,12 @@
+2013-06-27 16:04:17
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 264, in run
+  File "./sftp/commands.py", line 403, in do_operation
+  File "./sftp/file_transfer.py", line 25, in handler
+  File "./sftp/sftp_transport.py", line 565, in put
+  File "./sftp/file_transfer.py", line 317, in handle_put_dirs
+  File "./sftp/file_transfer.py", line 25, in handler
+  File "./sftp/sftp_transport.py", line 481, in mkdir
+PermissionError: Permission denied

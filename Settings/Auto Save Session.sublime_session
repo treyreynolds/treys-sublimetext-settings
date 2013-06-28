@@ -1,0 +1,1143 @@
+{
+	"folder_history":
+	[
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/genetic-car-2",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/IS_NRA_Calc",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/AR_RefundNRACalc",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/0-start",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/Backbone",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling",
+		"/Users/mireynol/Dropbox/Apps/Backlift/angularjs",
+		"/Users/mireynol/Dropbox/Apps/Backlift/backbone",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/nemo3",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuCfLoanConsole",
+		"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole",
+		"/Users/mireynol/Code/student"
+	],
+	"last_window_id": 70,
+	"settings":
+	{
+		"new_window_height": 1392.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"TBRACCD_DE",
+						"TBRACCD_DETAIL_CODE"
+					],
+					[
+						"gate",
+						"gatewayXML"
+					],
+					[
+						"Album",
+						"Album"
+					],
+					[
+						"P_IN",
+						"P_Insert_Into_Gateway"
+					],
+					[
+						"SPRIDEN",
+						"SPRIDEN_CHANGE_IND"
+					],
+					[
+						"AND",
+						"AND"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 56.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"form",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"format",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"forma",
+						"Format: Javascript"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"trailing",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"tidy",
+						"Tidy CSS"
+					]
+				],
+				"width": 417.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/STU_ATHLETE.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/stu_ssb_reg.sql",
+				"/Users/mireynol/.grails/termStatusConfig.groovy",
+				"/Users/mireynol/Desktop/inport.txt",
+				"/Users/mireynol/Documents/TEST STU_ATHLETE.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/STU_ATHLETE.sql",
+				"/Users/mireynol/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736801/STU_REGISTRAR_COPY_LEARNER.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736951/STU_REGISTRAR.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/public/js/Tunes.js",
+				"/Users/mireynol/Desktop/data.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/common/backbone-custom.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/web-app/js/views/facultyGradeEntry/facultyGradeEntry.js",
+				"/Users/mireynol/Desktop/blank.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/grails-app/controllers/net/hedtech/banner/student/faculty/RegistrationGradesController.groovy",
+				"/Users/mireynol/Desktop/test.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/grails-app/services/net/hedtech/banner/student/faculty/FacultyGradeEntryService.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/grails-app/controllers/net/hedtech/banner/student/faculty/FacultyRegistrationController.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/backbone.datagridview.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/common/datatables-custom.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/backbone.grid.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/backbone.modelbinding.js",
+				"/Users/mireynol/Documents/Backbone tutorials/Screen Cast/Persistence/peepcode-064-backbone-iii-2-code/9-complete/lib/server.rb",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/lib/server.rb",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/test-js/spec/TunesSpec.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/STU_REGISTRAR_COPY_LEARNER.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/stu_address.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/STU_REGISTRAR.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/public/index.html",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736787/STU_REGISTRAR_COPY_LEARNER.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/test-js/SpecRunner.html",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/public/js/vendor/underscore.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/0-start/public/index.html",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/0-start/server.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/grailsBackbone/application.properties",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/Backbone/js/app.js",
+				"/Users/mireynol/Documents/prosperity_bank.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/termStatus/scripts/_Events.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/instructorBannerCrosswalk/grails-app/domain/edu/ttu/itis/student/Department.groovy",
+				"/Users/mireynol/Documents/Production Config Files/dataRefreshConfig.groovy",
+				"/Users/mireynol/.grails/dataRefreshConfig.groovy",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-121-716927/gwrefrsh_synonym.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-689013/GWREFRSH_UPDATE_ST.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/stu_ssb_reg.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-121-705576/gwrefrsh_table_create.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736571/STU_ATHLETE.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/plus/STU_ATHLETE.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736207/bwlkffgd.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/facweb/dbprocs/bwlkffg1.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736574/bwlkffg1.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/facweb/dbprocs/bwlkffgd.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/shkegrb.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/shkegr1.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736537/shkegr1.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736541/bwlkffg1.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SQL Random/SFRSTCR_SHRTCKG.sql",
+				"/Users/mireynol/Downloads/TWVRFUP-Jun13 (2).sql",
+				"/Users/mireynol/Downloads/TWVRFUP-Jun13 (1).sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/finance/views/TWVRFUP.sql",
+				"/Users/mireynol/.grails/studentConfig.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/sql/AR_REFUND_FLAG_UPDATE.sql",
+				"/Users/mireynol/Downloads/TWVRFUP-Jun13.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-701823/TWVRFUP.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/homepage.php",
+				"/Users/mireynol/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/o23317803.00",
+				"/Users/mireynol/Desktop/ROW             RID           AMOUNT",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/exec/STU_GRADESFIRST_UPLOAD.sh",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/sftp-config.json",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/footer.php",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/header.php",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/style.css",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/sidebar.php",
+				"/Users/mireynol/Desktop/update sfrstcr.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/exec/STU_GRADESFIRST_DELETE.sh",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/exec/STU_GRADESFIRST_DC_UPLOAD.sh",
+				"/Users/mireynol/Desktop/export.sql",
+				"/Users/mireynol/Code/STU_GRADESFIRST_EXPORT.sql",
+				"/Users/mireynol/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/main.groovy",
+				"/Users/mireynol/Desktop/Update_SFRSTCR.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/STU_GRADESFIRST.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/sql/STU_GRADESFIRST_EXPORT.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/genweb/dbprocs/bwgkoem1.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/genweb/dbprocs/bwgkora1.sql",
+				"/Users/mireynol/Desktop/bad_query.sql",
+				"/Users/mireynol/Dropbox/Apps/Backlift/backbone/index.html",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_core/src/java/net/hedtech/banner/framework/persistence/util/TriggerAssignedIdentityGenerator.java",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_core/src/java/com/sungardhe/banner/framework/persistence/util/TriggerAssignedIdentityGenerator.java",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/target/classes/edu/ttu/itis/student/TriggerAssignedIdentityGenerator.class",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_core/application.properties",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/app.config",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/assets/css/game.css",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/js/sandbox.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/js/game-main.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/sftp-config.json",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/grails-app/conf/BuildConfig.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/source",
+				"/Users/mireynol/.grails/termStatusConfigOLD.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/starter-template.html",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/bin/Release/Oracle.DataAccess.dll",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-731318/stu_ssb_reg.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuCfLoanConsole/trunk/App_Code/DAL/StuCfLoanConsoleDAL.cs",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/IS_NRA_Calc/IS_NRA_Calc/Class1.cs",
+				"/Users/mireynol/Desktop/script_output.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/stu_athl_scsh.sql",
+				"/Users/mireynol/Documents/Adobe Support Stuff",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/foggaus/Real Church.html",
+				"/Users/mireynol/Desktop/stu_ssb_reg.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-731197/stu_ssb_reg.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/student/grails-app/views/TTU/actionItems.gsp",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-730908/stu_ssb_reg.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/App_Code/DAL/StuCfLoanConsoleDAL.cs",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/StuAthleticScholarshipsConsole.csproj",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/Program.cs",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/obj/x86/Debug/StuCfLoanConsole.csproj.FileListAbsolute.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/obj/x86/Release/StuCfLoanConsole.csproj.FileListAbsolute.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/Properties/AssemblyInfo.cs",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/Service References/ApprovalTrackingSystem/Reference.cs",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-121-718284/tt_student_string_type.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/plus/tt_student_output_messages_type_grants.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/tt_student_output_messages_type.sql",
+				"/Users/mireynol/Documents/PROCEDUREp_student_curriculum.sql",
+				"/Users/mireynol/Documents/bwkrstra.body.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/web-app/js/add-new-schema.js",
+				"/Users/mireynol/Downloads/detectmobilebrowser.js (1).txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/web-app/js/add-tables.js",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-121-725712/STU_SSB.sql",
+				"/Users/mireynol/Documents/First Steps",
+				"/Users/mireynol/Documents/layout.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 103.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"TBRACCD_AMOUNT",
+					"nraCalc",
+					"|",
+					"to_char",
+					", ",
+					"learner_missing_shrdgmr_cur",
+					"|",
+					"updateGrade",
+					"grid",
+					"Backbone.Grid",
+					"P_Update_CL_Address",
+					"gv_no_address",
+					"gv_CL_atyp_code",
+					"P_UPDATE_SPRADDR",
+					">\n",
+					"//",
+					"lda_date",
+					"SFRSTCR_LAST_ATTEND",
+					"update",
+					"P_FacFinGrd",
+					"UPDATE",
+					"format",
+					"CONSTANT",
+					"learner_cur",
+					"attend_tab",
+					"P_CommitFinGrd",
+					"P_FacCommitFinGrd",
+					"gb_common",
+					"USER",
+					"P_Update_Course_Registration_Status",
+					"SGBSTDN_RATE_CODE",
+					"gv_CL_data_origin",
+					"gv_trans_user",
+					"SFRRGFE",
+					"FromDate",
+					"Spraddr_From_Date",
+					"                                                                                                 \n",
+					"|",
+					", ",
+					".top",
+					"a:",
+					"link",
+					"tagline",
+					"EXPORT_TABLE",
+					"exception",
+					"F_Get_Telephone",
+					"create",
+					"\n",
+					", ",
+					"|",
+					"|               |               |               |               |               |               |",
+					", ",
+					"{\n",
+					"x64",
+					"x86",
+					"joyler.ttu.edu",
+					"\" assets",
+					"../assets",
+					"|",
+					"tbraccd_",
+					"P_Get_Scholarship_Payments",
+					"P_Get_Current_Scholarship_Payments",
+					"balance",
+					"financialAid",
+					"sorscpt",
+					"scbcrse_eff_term",
+					"sb_centricperiod",
+					"F_CourseS",
+					"aregcrsec",
+					"pidm_in",
+					"l_scps_code",
+					"REGCRSE",
+					"from",
+					"p_type",
+					"termBalance",
+					"combine",
+					"holds",
+					"CfLoan",
+					"reg_status",
+					"time",
+					"TT_STUDENT6",
+					"QBT24",
+					"TT_STUDENT.",
+					"QBT246",
+					"TT_OUTPUT",
+					"STU_SSB",
+					"F_AddMessage",
+					"F_RegsStatus",
+					"P_R",
+					"P_",
+					"QBT246.TT_OUTPUT",
+					"TT_OUTPUT",
+					"datetime.datetime.",
+					"open",
+					"SSB_REG",
+					"TT_STUDENT",
+					"bwskrsta",
+					"global_pidm",
+					"STU_REG_STATUS",
+					"studypath_prohibit_regc",
+					"stkstst.stvststc",
+					"F_ChkStuHld",
+					"twbkwbis.F_ValidUser",
+					"global_pidm",
+					"PIDM",
+					"export"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"	",
+					"",
+					"P_Update_RSTS_Code",
+					"",
+					" ",
+					"	",
+					"SFRSTCR_BACKUP",
+					".",
+					"	",
+					"",
+					"	",
+					"x64",
+					"localhost",
+					"\"assets",
+					"assets",
+					" assets",
+					" ",
+					"a",
+					"AthleticScholarships",
+					"TT_STUDENT",
+					"QBT246.TT_OUTPUT",
+					"QBT246.STU_SSB",
+					"P_AddMessage",
+					"TT_OUTPUT",
+					"datetime.",
+					"QBT246",
+					"tt_student.ssb_reg",
+					"SSB_REG",
+					"set"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.9609375,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.sftp":
+			{
+				"height": 232.0
+			},
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						".js",
+						"js/sandbox.js"
+					],
+					[
+						"backbone-cust",
+						"plugins/banner_ui_ss.git/web-app/js/common/backbone-custom.js"
+					],
+					[
+						".gsp",
+						"grails-app/views/TTU/actionItems.gsp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"TBRACCD_DE",
+						"TBRACCD_DETAIL_CODE"
+					],
+					[
+						"gate",
+						"gatewayXML"
+					],
+					[
+						"Album",
+						"Album"
+					],
+					[
+						"P_IN",
+						"P_Insert_Into_Gateway"
+					],
+					[
+						"SPRIDEN",
+						"SPRIDEN_CHANGE_IND"
+					],
+					[
+						"AND",
+						"AND"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/mireynol/Dropbox/Texas Tech Workspace/Code/AR_RefundNRACalc/trunk/AR_RefundNRACalc/AR_RefundNRACalc/Program.cs",
+					"settings":
+					{
+						"buffer_size": 97990,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/mireynol/Dropbox/Texas Tech Workspace/Code/genetic-car-2/cawro.js",
+					"settings":
+					{
+						"buffer_size": 41433,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/mireynol/Dropbox/Texas Tech Workspace/Code/genetic-car-2/sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 1285,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 56.0,
+				"selected_items":
+				[
+					[
+						"INSTALL	",
+						"Package Control: Install Package"
+					],
+					[
+						"grails",
+						"Set Syntax: Grails Controller (Groovy)"
+					],
+					[
+						"fil",
+						"FileDiffs: Menu"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"form",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"format",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"forma",
+						"Format: Javascript"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"trailing",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"tidy",
+						"Tidy CSS"
+					]
+				],
+				"width": 597.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/mireynol/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/Shell Turtlestein.sublime-settings",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/grails-app/controllers/edu/ttu/itis/student/RefreshTableController.groovy",
+				"/Users/mireynol/Library/Application Support/Sublime Text 2/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/STU_ATHLETE.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/stu_ssb_reg.sql",
+				"/Users/mireynol/.grails/termStatusConfig.groovy",
+				"/Users/mireynol/Desktop/inport.txt",
+				"/Users/mireynol/Documents/TEST STU_ATHLETE.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/STU_ATHLETE.sql",
+				"/Users/mireynol/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736801/STU_REGISTRAR_COPY_LEARNER.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736951/STU_REGISTRAR.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/public/js/Tunes.js",
+				"/Users/mireynol/Desktop/data.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/common/backbone-custom.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/web-app/js/views/facultyGradeEntry/facultyGradeEntry.js",
+				"/Users/mireynol/Desktop/blank.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/grails-app/controllers/net/hedtech/banner/student/faculty/RegistrationGradesController.groovy",
+				"/Users/mireynol/Desktop/test.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/grails-app/services/net/hedtech/banner/student/faculty/FacultyGradeEntryService.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/grails-app/controllers/net/hedtech/banner/student/faculty/FacultyRegistrationController.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/backbone.datagridview.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/common/datatables-custom.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/backbone.grid.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_student_faculty_grade_entry_app/plugins/banner_ui_ss.git/web-app/js/backbone.modelbinding.js",
+				"/Users/mireynol/Documents/Backbone tutorials/Screen Cast/Persistence/peepcode-064-backbone-iii-2-code/9-complete/lib/server.rb",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/lib/server.rb",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/test-js/spec/TunesSpec.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/STU_REGISTRAR_COPY_LEARNER.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/stu_address.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/STU_REGISTRAR.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/public/index.html",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736787/STU_REGISTRAR_COPY_LEARNER.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/test-js/SpecRunner.html",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/backbone-tunes/public/js/vendor/underscore.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/0-start/public/index.html",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/peepcode-backbone/0-start/server.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/grailsBackbone/application.properties",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/Backbone/js/app.js",
+				"/Users/mireynol/Documents/prosperity_bank.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/termStatus/scripts/_Events.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/instructorBannerCrosswalk/grails-app/domain/edu/ttu/itis/student/Department.groovy",
+				"/Users/mireynol/Documents/Production Config Files/dataRefreshConfig.groovy",
+				"/Users/mireynol/.grails/dataRefreshConfig.groovy",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-121-716927/gwrefrsh_synonym.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-689013/GWREFRSH_UPDATE_ST.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/stu_ssb_reg.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-121-705576/gwrefrsh_table_create.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736571/STU_ATHLETE.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/plus/STU_ATHLETE.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736207/bwlkffgd.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/facweb/dbprocs/bwlkffg1.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736574/bwlkffg1.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/facweb/dbprocs/bwlkffgd.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/shkegrb.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/shkegr1.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736537/shkegr1.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-736541/bwlkffg1.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SQL Random/SFRSTCR_SHRTCKG.sql",
+				"/Users/mireynol/Downloads/TWVRFUP-Jun13 (2).sql",
+				"/Users/mireynol/Downloads/TWVRFUP-Jun13 (1).sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/finance/views/TWVRFUP.sql",
+				"/Users/mireynol/.grails/studentConfig.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/sql/AR_REFUND_FLAG_UPDATE.sql",
+				"/Users/mireynol/Downloads/TWVRFUP-Jun13.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-701823/TWVRFUP.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/homepage.php",
+				"/Users/mireynol/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/o23317803.00",
+				"/Users/mireynol/Desktop/ROW             RID           AMOUNT",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/exec/STU_GRADESFIRST_UPLOAD.sh",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/sftp-config.json",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/footer.php",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/header.php",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/style.css",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/fumccounseling/wp-content/themes/Pilgrim/sidebar.php",
+				"/Users/mireynol/Desktop/update sfrstcr.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/exec/STU_GRADESFIRST_DELETE.sh",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/exec/STU_GRADESFIRST_DC_UPLOAD.sh",
+				"/Users/mireynol/Desktop/export.sql",
+				"/Users/mireynol/Code/STU_GRADESFIRST_EXPORT.sql",
+				"/Users/mireynol/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/main.groovy",
+				"/Users/mireynol/Desktop/Update_SFRSTCR.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/student/dbprocs/STU_GRADESFIRST.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/appworx/sql/STU_GRADESFIRST_EXPORT.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/genweb/dbprocs/bwgkoem1.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/genweb/dbprocs/bwgkora1.sql",
+				"/Users/mireynol/Desktop/bad_query.sql",
+				"/Users/mireynol/Dropbox/Apps/Backlift/backbone/index.html",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_core/src/java/net/hedtech/banner/framework/persistence/util/TriggerAssignedIdentityGenerator.java",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_core/src/java/com/sungardhe/banner/framework/persistence/util/TriggerAssignedIdentityGenerator.java",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/target/classes/edu/ttu/itis/student/TriggerAssignedIdentityGenerator.class",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/banner_core/application.properties",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/app.config",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/assets/css/game.css",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/js/sandbox.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/js/game-main.js",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/sftp-config.json",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/grails-app/conf/BuildConfig.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/source",
+				"/Users/mireynol/.grails/termStatusConfigOLD.groovy",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/game-dev/starter-template.html",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/bin/Release/Oracle.DataAccess.dll",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-731318/stu_ssb_reg.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuCfLoanConsole/trunk/App_Code/DAL/StuCfLoanConsoleDAL.cs",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/IS_NRA_Calc/IS_NRA_Calc/Class1.cs",
+				"/Users/mireynol/Desktop/script_output.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/stu_athl_scsh.sql",
+				"/Users/mireynol/Documents/Adobe Support Stuff",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/foggaus/Real Church.html",
+				"/Users/mireynol/Desktop/stu_ssb_reg.sql",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-731197/stu_ssb_reg.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/student/grails-app/views/TTU/actionItems.gsp",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-120-730908/stu_ssb_reg.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/App_Code/DAL/StuCfLoanConsoleDAL.cs",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/StuAthleticScholarshipsConsole.csproj",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/Program.cs",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/obj/x86/Debug/StuCfLoanConsole.csproj.FileListAbsolute.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/obj/x86/Release/StuCfLoanConsole.csproj.FileListAbsolute.txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/Properties/AssemblyInfo.cs",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/StuAthleticScholarshipsConsole/Service References/ApprovalTrackingSystem/Reference.cs",
+				"/Users/mireynol/.cascm/workspace/.metadata/.plugins/com.ca.harvest.workbench/waCache/waC-optima-35-121-718284/tt_student_string_type.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/plus/tt_student_output_messages_type_grants.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/SCM/student/dbprocs/tt_student_output_messages_type.sql",
+				"/Users/mireynol/Documents/PROCEDUREp_student_curriculum.sql",
+				"/Users/mireynol/Documents/bwkrstra.body.sql",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/web-app/js/add-new-schema.js",
+				"/Users/mireynol/Downloads/detectmobilebrowser.js (1).txt",
+				"/Users/mireynol/Dropbox/Texas Tech Workspace/Code/data-refresh/web-app/js/add-tables.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"TBRACCD_AMOUNT",
+					"nraCalc",
+					"|",
+					"to_char",
+					", ",
+					"learner_missing_shrdgmr_cur",
+					"|",
+					"updateGrade",
+					"grid",
+					"Backbone.Grid",
+					"P_Update_CL_Address",
+					"gv_no_address",
+					"gv_CL_atyp_code",
+					"P_UPDATE_SPRADDR",
+					">\n",
+					"//",
+					"lda_date",
+					"SFRSTCR_LAST_ATTEND",
+					"update",
+					"P_FacFinGrd",
+					"UPDATE",
+					"format",
+					"CONSTANT",
+					"learner_cur",
+					"attend_tab",
+					"P_CommitFinGrd",
+					"P_FacCommitFinGrd",
+					"gb_common",
+					"USER",
+					"P_Update_Course_Registration_Status",
+					"SGBSTDN_RATE_CODE",
+					"gv_CL_data_origin",
+					"gv_trans_user",
+					"SFRRGFE",
+					"FromDate",
+					"Spraddr_From_Date",
+					"                                                                                                 \n",
+					"|",
+					", ",
+					".top",
+					"a:",
+					"link",
+					"tagline",
+					"EXPORT_TABLE",
+					"exception",
+					"F_Get_Telephone",
+					"create",
+					"\n",
+					", ",
+					"|",
+					"|               |               |               |               |               |               |",
+					", ",
+					"{\n",
+					"x64",
+					"x86",
+					"joyler.ttu.edu",
+					"\" assets",
+					"../assets",
+					"|",
+					"tbraccd_",
+					"P_Get_Scholarship_Payments",
+					"P_Get_Current_Scholarship_Payments",
+					"balance",
+					"financialAid",
+					"sorscpt",
+					"scbcrse_eff_term",
+					"sb_centricperiod",
+					"F_CourseS",
+					"aregcrsec",
+					"pidm_in",
+					"l_scps_code",
+					"REGCRSE",
+					"from",
+					"p_type",
+					"termBalance",
+					"combine",
+					"holds",
+					"CfLoan",
+					"reg_status",
+					"time",
+					"TT_STUDENT6",
+					"QBT24",
+					"TT_STUDENT.",
+					"QBT246",
+					"TT_OUTPUT",
+					"STU_SSB",
+					"F_AddMessage",
+					"F_RegsStatus",
+					"P_R",
+					"P_",
+					"QBT246.TT_OUTPUT",
+					"TT_OUTPUT",
+					"datetime.datetime.",
+					"open",
+					"SSB_REG",
+					"TT_STUDENT",
+					"bwskrsta",
+					"global_pidm",
+					"STU_REG_STATUS",
+					"studypath_prohibit_regc",
+					"stkstst.stvststc",
+					"F_ChkStuHld",
+					"twbkwbis.F_ValidUser",
+					"global_pidm",
+					"PIDM",
+					"export"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"	",
+					"",
+					"P_Update_RSTS_Code",
+					"",
+					" ",
+					"	",
+					"SFRSTCR_BACKUP",
+					".",
+					"	",
+					"",
+					"	",
+					"x64",
+					"localhost",
+					"\"assets",
+					"assets",
+					" assets",
+					" ",
+					"a",
+					"AthleticScholarships",
+					"TT_STUDENT",
+					"QBT246.TT_OUTPUT",
+					"QBT246.STU_SSB",
+					"P_AddMessage",
+					"TT_OUTPUT",
+					"datetime.",
+					"QBT246",
+					"tt_student.ssb_reg",
+					"SSB_REG",
+					"set"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/mireynol/Dropbox/Texas Tech Workspace/Code/genetic-car-2"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/mireynol/Dropbox/Texas Tech Workspace/Code/AR_RefundNRACalc/trunk/AR_RefundNRACalc/AR_RefundNRACalc/Program.cs",
+							"settings":
+							{
+								"buffer_size": 97990,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13505,
+										13505
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/C#/C#.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4318.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/mireynol/Dropbox/Texas Tech Workspace/Code/genetic-car-2/cawro.js",
+							"settings":
+							{
+								"buffer_size": 41433,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										827,
+										827
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 295.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/mireynol/Dropbox/Texas Tech Workspace/Code/genetic-car-2/sftp-config.json",
+							"settings":
+							{
+								"buffer_size": 1285,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										251,
+										251
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.9609375,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 536.0
+			},
+			"output.sftp":
+			{
+				"height": 232.0
+			},
+			"position": "1287 4 1280 1414 0 0 2560 1418 ",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						".js",
+						"js/sandbox.js"
+					],
+					[
+						"backbone-cust",
+						"plugins/banner_ui_ss.git/web-app/js/common/backbone-custom.js"
+					],
+					[
+						".gsp",
+						"grails-app/views/TTU/actionItems.gsp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true,
+			"window_id": 70,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

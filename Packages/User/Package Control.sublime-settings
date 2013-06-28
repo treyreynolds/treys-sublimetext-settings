@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CSSTidy",
+		"FileDiffs",
+		"Format SQL",
+		"Grails",
+		"HtmlTidy",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"SFTP",
+		"Shell Turtlestein",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
